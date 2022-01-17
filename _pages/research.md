@@ -7,7 +7,7 @@ header:
   og_image: "maintenance.png"
 ---
 
-Website under construction
+Website under construction.
 Coming soon !  
 
 ![](/images/software/maintenance.png)
