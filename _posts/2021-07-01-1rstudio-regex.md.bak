@@ -1,7 +1,7 @@
 ---
 title: Découvrir la psychologie pour mieux enseigner
 date: 2021-07-01
-permalink: /posts/2021/07-rstudio-regex
+permalink: /posts/2021/01-cortecs
 excerpt_separator: <!--more-->
 toc: true
 tags:

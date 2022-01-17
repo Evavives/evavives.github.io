@@ -1,12 +1,17 @@
 ---
 title: Découvrir la psychologie pour mieux enseigner
-date: 2021-07-01
+date: 2022-01-01
 permalink: /posts/2021/01-cortecs
 excerpt_separator: <!--more-->
 toc: true
 tags:
-  - regex
+  - education
+  - MOOC
+  - cortecs
+  - critical thinkinh
 ---
+
+![](/images/posts/rstudio-regex/cortecs_logo.png){: .align-center }
 
 Le MOOC « La Psychologie pour les enseignants » a suscité avant même sa diffusion un très fort engouement de la part de la communauté des enseignants, pédagogues, et formateurs en France. 
 Les contenus riches proposés par ce cours en ligne (MOOC) sont suivis par des centaines de personnes chaque semaine. 
@@ -14,11 +19,6 @@ Sous l’égide de l’ENS et du Réseau Canopé, le MOOC aborde en trois grands
 Avec autant d’informations désormais en accès libre sur les bonnes pratiques d’enseignement, plus question d’ignorer l’architecture cognitive des élèves ou de se laisser submerger par un comportement perturbateur en classe.
 
 <!--more-->
-
-![](/images/posts/rstudio-regex/cortecs_logo.png){: .align-center }
-
-
-# Découvrir la psychologie pour mieux enseigner
 
 Full article is available in French, on Cortecs website [Cortecs website](https://cortecs.org/non-classe/decouvrir-la-psychologie-pour-mieux-enseigner/).
 
