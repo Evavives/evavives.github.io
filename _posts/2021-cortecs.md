@@ -2,7 +2,7 @@
 title: Découvrir la psychologie pour mieux enseigner
 date: 2021-07-01
 permalink: /posts/2021/cortecs
-excerpt_separator: <!--more-->
+excerpt_separator: 
 toc: true
 tags:
   - cortecs
@@ -13,7 +13,6 @@ tags:
 
 Article available in French on [Cortecs website](https://cortecs.org/non-classe/decouvrir-la-psychologie-pour-mieux-enseigner/) on how states preempt separatist conflict, I needed to submit replication materials to the journal. I took my graduate quantitative methods sequence with the late [Tom Carsey](https://sites.google.com/view/tom-carsey/home), so I've long been a proponent replicability efforts in social science. I also had an hourly job in grad school replicating quantitative results for multiple political science journals, so I'm very familiar with best practices for replication. Unfortunately, in the four years since I wrote the first line of code for this project, somewhere in between defending my dissertation and starting a new job (ok, fine, almost immediately after writing that first line of code), I got a little lazy.
 
-<!--more-->
 
 
 # Regular expressions
