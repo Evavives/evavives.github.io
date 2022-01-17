@@ -1,5 +1,5 @@
 ---
-title: Découvrir la psychologie pour mieux enseigner
+title: Regular expressions for replication
 date: 2021-07-01
 permalink: /posts/2021/07-rstudio-regex
 excerpt_separator: <!--more-->
@@ -12,9 +12,11 @@ As part of the publication process for my recent [article](https://doi.org/10.11
 
 <!--more-->
 
+Sometimes it's faster (easier) to just write code that works for you, on your system, without any consideration for some poor researcher who may try to replicate your results in the future.[^replication] This tendency was especially bad for this project because at various points in time I was writing code to run on my personal laptop and [two](https://its.unc.edu/research-computing/killdevil-retirement/) [different](https://its.unc.edu/research-computing/longleaf-cluster/) high performance computing clusters. This is a recipe for code that doesn't travel well and will almost certainly fail to replicate.
 
-Article available in French on [Cortecs website](https://cortecs.org/non-classe/decouvrir-la-psychologie-pour-mieux-enseigner/).
+[^replication]: I'm using 'replication' here to mean that the code used to generate quantitative results from a dataset should produce those same results when run by another researcher, *not* in the sense that means that independent researchers following the published protocol can collect the data themselves and arrive at the same conclusion. I use the term 'reproducible' to describe this property. Annoyingly, different fields use [opposing definitions](https://www.ncbi.nlm.nih.gov/books/NBK547546/) of these two terms.
 
+There were a lot of changes I made to my code to ensure my results replicate, but the most tedious (and time consuming, by far) was cleaning up my file paths. Due to the computationally intensive GIS work and Bayesian statistics involved in the project, I ran lots of code on a cluster, and then pulled the results back to my laptop to summarize and create figures. This unsurprisingly resulted in a huge mess when looking at the project as a whole, rather than any individual script. Luckily, R and Rstudio made things (relatively) painless to fix.
 
 # File paths
 
