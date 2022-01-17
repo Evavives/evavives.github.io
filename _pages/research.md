@@ -7,4 +7,4 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My research is about ...
+
