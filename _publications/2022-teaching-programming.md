@@ -1,10 +1,10 @@
 ---
-title: "Teaching Programming Skills in Methods Courses is an Opportunity, not a Burden"
+title: "Socio-Emotional Competencies and School Performance in Adolescence: What Role for School Adjustment?"
 collection: publications
-permalink: /publication/2022-teaching-programming
-date: 2022-01-01
-venue: 'PS: Political Science & Politics'
-paperurl: '/files/pdf/teaching/Teaching Programming.pdf'
-link: 'https://doi.org/10.1017/S1049096521001153'
-citation: 'Williams, Rob. 2022. &quot;Teaching Programming Skills in Methods Courses is an Opportunity, not a Burden.&quot; <i>PS: Political Science & Politics</i> 55(1): 221-224. doi:10.1017/S1049096521001153'
+permalink: /publication/2022-socio-emo
+date: 2021-09-07
+venue: 'Frontiers'
+paperurl: '/files/pdf/research/Mella et al. (2021) Socio-Emotional competencies.pdf'
+link: 'https://www.frontiersin.org/articles/10.3389/fpsyg.2021.640661/full'
+citation: 'Mella, et al. 2021. &quot;Socio-Emotional Competencies and School Performance in Adolescence: What Role for School Adjustment?&quot; <i>Frontiers</i>. doi:10.3389/fpsyg.2021.640661'
 ---
