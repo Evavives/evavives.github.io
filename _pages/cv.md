@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-You can download a PDF copy of my CV [here]('/files/pdf/CV___Eva_Vives.pdf').
+You can download a PDF copy of my CV [here](/files/pdf/CV___Eva_Vives.pdf).
