@@ -1,15 +1,15 @@
 ---
 title: A little throwback
 date: 2022-11-19
-permalink: /posts/2022/throwback/
+permalink: /posts/2022/throwback
 excerpt_separator: <!--more-->
 toc: true
 tags:
-  - PhD
-  - Defense
-  - Thesis
+  - phd
+  - thesis
+  - defense
   - science
-  - research
+  - university
 ---
 
 ![](/images/posts/rstudio-regex/cortecs_logo.png){: .align-center }
@@ -20,6 +20,5 @@ Avec autant d’informations désormais en accès libre sur les bonnes pratiques
 Full article is available in French, on [Cortecs website](https://cortecs.org/non-classe/decouvrir-la-psychologie-pour-mieux-enseigner/).
 
 <!--more-->
-
 
 
