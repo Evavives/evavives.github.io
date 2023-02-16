@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile2.png # Open Graph/Twitter default site image
+og_image                 : profile.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Eva Vives"
-  avatar           : "profile.jpg"
+  avatar           : "profile2.jpg"
   bio              : "Experimental Psychology"
   location         : "France"
   employer         : "Université de Lyon, France"
