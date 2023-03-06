@@ -16,4 +16,5 @@ author_profile: true
 {% endfor %}
 
 <sup>¤</sup> UCOM consortium
+<br>
 <sup>*</sup> PROFAN consortium
