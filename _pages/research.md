@@ -10,4 +10,4 @@ header:
 Website under construction.
 Coming soon !  
 
-![](/images/resarch/maintenance.png)
+![](/images/research/maintenance.png)
