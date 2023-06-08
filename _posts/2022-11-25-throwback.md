@@ -1,6 +1,6 @@
 ---
 title: A little throwback
-date: 2022-11-19
+date: 2022-11-25
 permalink: /posts/2022/throwback
 excerpt_separator: <!--more-->
 toc: true
