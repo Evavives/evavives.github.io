@@ -12,7 +12,7 @@ tags:
   - university
 ---
 
-![](/images/posts/post2/defense.jpg){: .align-center }
+![](/images/posts/post2/defence.jpg){: .align-center }
 
 One year ago, on November 19th 2021, I defended my Ph.D. thesis at Aix-Marseille University, 
 entitled 'Cognitive and psychosocial mechanisms involved in Jigsaw cooperative learning : experimental studies in educational settings',
