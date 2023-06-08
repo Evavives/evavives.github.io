@@ -1,5 +1,5 @@
 ---
-title: "Gender Gap in Parental Leave Intentions: Evidence from 37 Countries ? ¤"
+title: "Gender Gap in Parental Leave Intentions: Evidence from 37 Countries ¤"
 collection: publications
 permalink: /publication/2023-gender-gap
 date: 2023-06-03
