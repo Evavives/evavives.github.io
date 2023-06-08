@@ -21,6 +21,7 @@ en: &DEFAULT_EN
   comments_title             : "Comments"
   more_label                 : "Learn More"
   follow_label               : "Follow:"
+  related_label              : "You May Also Enjoy"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
