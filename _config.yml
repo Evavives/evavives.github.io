@@ -11,7 +11,8 @@ title                    : "EVA VIVES"
 title_separator          : "-"
 name                     : &name "Eva Vives"
 description              : &description "Experimental Psychology"
-url                      : https://evavives.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://evavives.gi
+thub.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Evavives/evavives.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -187,7 +188,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  cheating:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -242,6 +245,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+    # _cheating
+  - scope:
+      path: ""
+      type: cheating
+    values:
+      layout: cheating
       author_profile: true
       share: true
 
