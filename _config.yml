@@ -247,14 +247,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-    # _cheating
-  - scope:
-      path: ""
-      type: cheating
-    values:
-      layout: cheating
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
