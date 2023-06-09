@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "EVA VIVES"
 title_separator          : "-"
 name                     : &name "Eva Vives"
-description              : &description "Experimental Psychology"
+description              : &description "ExperimentalPsychology"
 url                      : https://evavives.gi
 thub.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
