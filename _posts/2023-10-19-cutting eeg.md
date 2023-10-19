@@ -1,7 +1,7 @@
 ---
 title: Cutting EEG 2023 in Ghent University
 date: 2023-10-19
-permalink: /posts/2023/06-cutting-eeg
+permalink: /posts/2023/cutting-eeg
 excerpt_separator: <!--more-->
 toc: true
 tags:
