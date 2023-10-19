@@ -13,7 +13,7 @@ tags:
   - HMM
 ---
 
-![](/images/posts/post6/cutting-eeg.png){: .left-image width="40%" height="30%"}
+![](/images/posts/post6/cutting-eeg.png){: .align-center width="40%" height="30%"}
 This autumn, I had the opportunity to attend the [Cutting EEG](https://cuttinggardens2023.org/) Worldwide Summit for the first time. 
 During the transition to my upcoming position, I had the privilege of visiting UGent, my future host university, which was one of the 20 Cutting Gardens featured in this impressive 2023 edition.
 
