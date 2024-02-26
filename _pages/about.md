@@ -18,7 +18,7 @@ Natural language processing (NLP) techniques will be applied, with two main task
 Content will be extracted from the web pages (e.g. using a boilerplate removal algorithm) and duplicate documents will be removed (e.g. using the ONION corpus tool). 
 The occurrences will be classified into fine-grained categories using sequential unsupervised learning (with text clustering programs) and supervised learning (e.g. TextCat).
 
-See the complete offer here : [current vacancies] (https://evavives.github.io//job-vacancies/)
+See the complete offer here : [current vacancies](https://evavives.github.io//job-vacancies/)
 
 ## My current position
 
