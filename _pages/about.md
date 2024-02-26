@@ -7,6 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+## JOB ALERT !
+
+We are looking for highly motivated candidates with proficiency in natural language processing (NLP) and machine learning. 
+Candidates interested in developing their skills in these areas are also encouraged to apply.
+The objective of this internship is to analyse textual data from the web, collected through Google Alerts. 
+Natural language processing (NLP) techniques will be applied, with two main tasks: the creation of a web-based corpus and the thematic classification of the text. 
+Content will be extracted from the web pages (e.g. using a boilerplate removal algorithm) and duplicate documents will be removed (e.g. using the ONION corpus tool). 
+The occurrences will be classified into fine-grained categories using sequential unsupervised learning (with text clustering programs) and supervised learning (e.g. TextCat).
+See the complete offer here : [current vacancies] (
+
 ## My current position
 
 I am a happy postdoctoral fellow at the [Social & Moral Brain Lab](https://moralsocialbrain.com/), located in the Department of Experimental Psychology of Ghent University (Belgium). 
