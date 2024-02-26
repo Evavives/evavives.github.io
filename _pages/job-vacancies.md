@@ -17,6 +17,7 @@ The Moral & Social Brain Lab (Department of Experimental Psychology, UGent) is p
 <b class="term">Objectives</b>: To analyse textual data from the web, collected through Google Alerts. Natural language processing (NLP) techniques will be applied, with two main tasks: the creation of a web-based corpus and the thematic classification of the text. 
 Content will be extracted from the web pages (e.g. using a boilerplate removal algorithm) and duplicate documents will be removed (e.g. using the ONION corpus tool). 
 The occurrences will be classified into fine-grained categories using sequential unsupervised learning (with text clustering programs) and supervised learning (e.g. TextCat).
+
 In line with our research objectives, these suggested procedures can be adapted by the candidate throughout the internship, allowing them to be actively involved in the data generation and analysis processes.
 Successful candidates will work under the guidance of Dr. Eva Vives (Postdoctoral Fellow) and Professor Emilie Caspar. 
 
