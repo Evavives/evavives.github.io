@@ -19,7 +19,7 @@ Content will be extracted from the web pages (e.g. using a boilerplate removal a
 The occurrences will be classified into fine-grained categories using sequential unsupervised learning (with text clustering programs) and supervised learning (e.g. TextCat).
 
 In line with our research objectives, these suggested procedures can be adapted by the candidate throughout the internship, allowing them to be actively involved in the data generation and analysis processes.
-Successful candidates will work under the guidance of Dr. Eva Vives (Postdoctoral Fellow) and Professor Emilie Caspar. 
+Successful candidates will work under the guidance of Dr. Eva Vives (Postdoctoral Fellow) and Professor Emilie Caspar, and their home university.
 
 <b class="term">Application</b>:
 Applications should be submitted to (emilie.caspar@ugent.be) and (eva.vives@ugent.be)
