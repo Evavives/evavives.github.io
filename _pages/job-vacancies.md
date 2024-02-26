@@ -22,7 +22,7 @@ In line with our research objectives, these suggested procedures can be adapted 
 Successful candidates will work under the guidance of Dr. Eva Vives (Postdoctoral Fellow) and Professor Emilie Caspar, and their home university.
 
 <b class="term">Application</b>:
-Applications should be submitted to (emilie.caspar@ugent.be) and (eva.vives@ugent.be)
+Applications should be submitted to emilie.caspar@ugent.be and eva.vives@ugent.be
 
 
 ![](/images/job-vacancies/logos.png)
