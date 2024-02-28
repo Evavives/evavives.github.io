@@ -19,7 +19,7 @@ This offer can be adapted to a Master's dissertation project.
 with “moral dilemma” as keyword (n = 45000 occurrences). Overall, this daily based corpus detected posts from social networks and websites that describe real-life (e.g., education, politics) or fictional (e.g., books, movies) moral dilemmas. 
 For instance, ‘Is it appropriate to disclose this information for the public good and risk transgressing the law that protects state secrets?’. 
 
-The successful candidate will use Natural Language Processing (NLP) techniques to process and manage this data. Two main tasks will be accomplished: the creation of a web-based corpus and the thematic classification of the text. 
+The successful candidate will use <b class="term">Natural Language Processing (NLP) techniques</b>: to process and manage this data. Two main tasks will be accomplished: <b class="term">the creation of a web-based corpus and the thematic classification of the text.</b>
 First, content will be extracted from the web pages (e.g., using a boilerplate removal algorithm), and duplicate documents will be removed (e.g., using the ONION corpus tool). 
 Second, the occurrences will be classified into fine-grained categories using sequential non-supervised learning (with text clustering programs) and supervised learning (e.g., TextCat).
 
@@ -28,7 +28,7 @@ In line with our research objectives, these suggested procedures can be adapted 
 Successful candidates will work with their Master' supervisor and under the guidance of Dr. Eva Vives (Postdoctoral Fellow) and Professor Emilie Caspar.
 
 <b class="term">Application</b>:
-Applications should be submitted to emilie.caspar@ugent.be and eva.vives@ugent.be
+Applications should be submitted to emilie.caspar@ugent.be and eva.vives@ugent.be.
 Attach a resume and a short personal statement.
 
 ![](/images/job-vacancies/logos.png)
