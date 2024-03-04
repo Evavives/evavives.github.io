@@ -1,6 +1,5 @@
 ---
-title: "Learning with Jigsaw:
-A systematic review gathering all the pieces of the puzzle more than 40 years later *"
+title: "Learning with Jigsaw: A systematic review gathering all the pieces of the puzzle more than 40 years later *"
 collection: publications
 permalink: /publication/2024-jigsaw
 date: 2024-01-11
