@@ -4,9 +4,9 @@ title: "Job Vacancies"
 permalink: /job-vacancies/
 author_profile: true
 header:
-  og_image: "logos.png"
+  og_image: "nothing-to-see-here.jpg"
 ---
 
 No vacancies at the moment ! 
 
-![](/images/job-vacancies/logos.png)
+![](/images/job-vacancies/nothing-to-see-here.jpg)
