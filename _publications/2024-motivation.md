@@ -1,7 +1,7 @@
 ---
 title: " Does the Jigsaw method improve motivation and self-regulation in vocational high schools ?*"
 collection: publications
-permalink: /publication/2024-jigsaw-regulation
+permalink: /publication/2024-regulation
 date: 2024-29-06
 venue: 'Contemporary Educational Psychology'
 paperurl: '/files/pdf/research/Riant et al. (2024) Jigsaw and self-regulation'
