@@ -1,7 +1,7 @@
 ---
 title: Friday Social Club at Ghent University
 date: 2024-04-17
-permalink: /posts/2023/cutting-eeg
+permalink: /posts/2024/friday-social-club
 excerpt_separator: <!--more-->
 toc: true
 tags:
