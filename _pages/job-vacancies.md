@@ -9,4 +9,4 @@ header:
 
 No vacancies at the moment ! 
 
-![](/images/job-vacancies/nothing-to-see-here.jpg)
+![](/images/job-vacancies/nothing-to-see-here.jpg){: .align-center}
