@@ -3,6 +3,8 @@ layout: archive
 title: "Media Coverage"
 permalink: /media-coverage/
 author_profile: true
+header:
+  og_image: "tmc-logo.png"
 ---
 <b>2024</b> 
 
