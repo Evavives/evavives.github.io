@@ -3,12 +3,10 @@ layout: archive
 title: "Media Coverage"
 permalink: /media-coverage/
 author_profile: true
-header:
-  og_image: "tmc-logo.jpg"
 ---
 <b>2024</b> 
 
-![](/images/media-coverage/tmc-logo.jpg){: .align-center}
+![](/images/media-coverage/tmc-logo.JPG){: .align-center}
 
 On May I was interviewed (email) by Luis Melecio-Zambrano, reporter for The Mercury News (Santa Clara, USA). 
 Their questions were about a novel collaborative teaching method implemented in a local middle school.
