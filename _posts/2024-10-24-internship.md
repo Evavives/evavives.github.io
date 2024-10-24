@@ -12,7 +12,7 @@ tags:
   - Erasmus
 ---
 
-![](/images/posts/post8/Rozelin.png){: .align-center style="width:50%;"}
+![](/images/posts/post8/Rozelin.png){: .align-center}
 
 A month ago, the team and I were happy to welcome Rozelin Vurgun for her internship in the Moral and Social Brain lab!
 Rozelin is doing her Master at Kadir Has University (Turkey) and is currently doing an Erasmus internship as part of her training.
