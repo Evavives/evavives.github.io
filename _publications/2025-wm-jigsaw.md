@@ -1,5 +1,5 @@
 ---
-title: " Uncovering the relationship between working memory and performance in the Jigsaw classroom "
+title: " Uncovering the relationship between working memory and performance in the Jigsaw classroom * "
 collection: publications
 permalink: /publication/2025-wm-jigsaw
 date: 2025-12-02
