@@ -13,6 +13,9 @@ author_profile: true
   </a>
 </div>
 
+On January I was interviewed for a podcast about my research and psychology of moral judgement by Kaourantin Rajraji (Aix-Marseille University).
+The podcast of the episode is also available on Spotify on his channel [L'esprit Curieux](https://open.spotify.com/episode/0SAajnPeIj1g6QqnW7aBoW?si=66153d030bfa4564),and all other platforms.
+
 <b>2024</b> 
 
 ![](/images/media-coverage/tmc-logo.JPG){: .align-center}
