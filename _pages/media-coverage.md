@@ -4,6 +4,15 @@ title: "Media Coverage"
 permalink: /media-coverage/
 author_profile: true
 ---
+
+<b>2025</b> 
+
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=p7Z8Dj7PKh8">
+    <img src="https://img.youtube.com/vi/p7Z8Dj7PKh8/maxresdefault.jpg" width="600" />
+  </a>
+</div>
+
 <b>2024</b> 
 
 ![](/images/media-coverage/tmc-logo.JPG){: .align-center}
