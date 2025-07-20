@@ -14,7 +14,8 @@ tags:
 
 ![](/images/posts/post9/experiment_setup.jpg){: .align-center}
 
-In one of my experiments, we manipulate the experimenter presence in the Faraday cage. Results coming soon !
+In one of my experiments, we manipulated the presence of the experimenter in the (EEG) Faraday cage. Results coming soon !
+Special thanks to our amazing interns and research assistant Sandra and Eloise! 
 
 <!--more-->
 
