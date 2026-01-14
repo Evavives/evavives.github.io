@@ -1,5 +1,5 @@
 ---
-title: Experimenter presence
+title: A Note on Data Privacy & Storage 
 date: 2026-01-14
 permalink: /posts/2026/dataprivacy
 excerpt_separator: <!--more-->
@@ -10,7 +10,6 @@ tags:
   - storage
   - social media
 ---
-# A Note on Data Privacy & Storage 🛡️
 
 This is a slightly unusual post, that has been close to my heart for a long time.
 
@@ -30,14 +29,14 @@ Read more about [digital surveillance and what you can do about it ](https://www
 
 ## Communication Tools
 
-### 📱 iPhone iMessage
+### 🛡️ iPhone iMessage
 - One of the messaging services with **very limited governmental access**
 - Designed and controlled by Apple
 - Blocking iMessage would require blocking **entire telecommunications systems**, making it practically infeasible
 
 ---
 
-### 📧 Email — Proton Mail
+### 🛡️ Email — Proton Mail
 - Strong focus on **privacy and encryption**
 - Allows the creation of **temporary security keys** when sending emails to non-Proton users (e.g., Gmail)
 - Example:
@@ -47,15 +46,15 @@ Read more about [digital surveillance and what you can do about it ](https://www
 
 ---
 
-### 💬 Instant Messaging
+### 🛡️ Instant Messaging
 
-#### ✅ Olvid (Highly Recommended)
+####  Olvid (Highly Recommended)
 - Unlike WhatsApp, Telegram, or Signal:
   - Each conversation establishes a **direct link between users**
   - No reliance on a **centralized server** nor cloud
 - Strong identity-based cryptography
 
-#### ⚠️ Signal (Fallback Option)
+####  Signal (Fallback Option)
 - Preferable to Meta-owned services
 - Important note:
   - **Not linked to a phone number**
@@ -63,9 +62,9 @@ Read more about [digital surveillance and what you can do about it ](https://www
 
 ---
 
-## Data Storage
+## 🛡️ Data Storage
 
-### 🗄️ Personal NAS (Network Attached Storage)
+###  Personal NAS (Network Attached Storage)
 - Strongly recommended for:
   - Personal file storage
   - Photos and videos
