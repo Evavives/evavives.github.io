@@ -84,9 +84,6 @@ Small choices, when combined, can significantly reduce unnecessary data exposure
 
 If you have tools, services, or workflows to recommend, feel free to share!
 
-
-
-
 <!--more-->
 
 
