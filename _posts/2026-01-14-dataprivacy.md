@@ -24,7 +24,6 @@ Without commenting further on the current global situation, I simply wanted to s
 > My idea is to provide suggestions that might be useful or inspiring for your own setup.  This post is a living document, intended to evolve over the years.
 > **Feedback and additional suggestions are very welcome**
 
-Read more about [digital surveillance and what you can do about it ](https://www.webtoffee.com/blog/privacy-and-digital-surveillance/)
 ---
 
 ## Communication Tools
@@ -81,7 +80,11 @@ Read more about [digital surveillance and what you can do about it ](https://www
 Privacy-respecting tools are not about paranoia, they are about **responsibility**, especially in research contexts. 
 Small choices, when combined, can significantly reduce unnecessary data exposure.
 
+--> Read more about [digital surveillance and what you can do about it ](https://www.webtoffee.com/blog/privacy-and-digital-surveillance/)
+
 If you have tools, services, or workflows to recommend, feel free to share!
+
+
 
 
 <!--more-->
