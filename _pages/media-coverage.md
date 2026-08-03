@@ -5,6 +5,18 @@ permalink: /media-coverage/
 author_profile: true
 ---
 
+<b>2026</b> 
+
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=4PJaC5qJ66U">
+    <img src="https://i.ytimg.com/vi_webp/4PJaC5qJ66U/maxresdefault.webp" width="600" />
+  </a>
+</div>
+
+The video of my intervention to Skeptics in the Pub at Brussels (Belgium) is now available on Youtube.
+Thanks to the Comité Para for their trust [Click here for more social psychology](https://www.youtube.com/watch?v=4PJaC5qJ66U")
+
+
 <b>2025</b> 
 
 <div style="text-align: center;">
