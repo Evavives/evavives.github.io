@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-
 ## My current position
+I am currently following a training programme in cybersecurity to complement my training in experimental science.
+Who knows, maybe one day I'll hack your brain?
 
-I am a happy postdoctoral fellow at the [Social & Moral Brain Lab](https://moralsocialbrain.com/), located in the Department of Experimental Psychology of Ghent University (Belgium). 
-My project, YourMorals, which was awarded a [Marie Skłodowska-Curie](https://cordis.europa.eu/project/id/101108680) individual grant for the years 2024-2026, explores the impact of mere presence of others on individuals’ moral preferences during conflictual moral dilemmas. 
-This research uses a unique experimental system that mimics social context through face-to-face interactions, employing hyperscanning (EEG) techniques.
-In parallel, I developp a standardized and realistic set of moral dilemmas addressing military, environmental, and medical issues to measure ‘real-life’ psychological processes of moral conflicts.
+## My last position
+
+From 2024 to 2026, I was a happy postdoctoral fellow at the [Social & Moral Brain Lab](https://moralsocialbrain.com/), located in the Department of Experimental Psychology of Ghent University (Belgium). 
+My project, YourMorals, which was awarded a [Marie Skłodowska-Curie](https://cordis.europa.eu/project/id/101108680) individual grant, explored the impact of mere presence of others on individuals’ moral preferences during conflictual moral dilemmas. 
+This research used a unique experimental system to mimick social context through face-to-face interactions, employing hyperscanning (EEG) technique.
+In parallel, I developped a standardized and realistic set of moral dilemmas addressing military, environmental, and medical issues to measure ‘real-life’ psychological processes of moral conflicts.
 
 
 ## About me
