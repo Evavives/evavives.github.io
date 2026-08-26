@@ -10,7 +10,7 @@ redirect_from:
 
 ## My current position
 
-I am currently following a training programme in cybersecurity to complement my training in experimental science.
+I am currently following a training programme in cybersecurity to complement my background in experimental science.
 Who knows, maybe one day I'll hack your brain?
 
 ## My last position
